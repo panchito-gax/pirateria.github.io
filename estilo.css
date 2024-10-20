@@ -1,0 +1,175 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-color: ;
+	background: linear-gradient(to bottom,);
+}
+ #titulo{
+ 	text-align: center;
+ 	background-color: #12f90b ;
+ 	color: #000003;
+ 	padding: 20px;
+ 	font-family: algerian;
+ 	background: linear-gradient(to bottom,#4EFF16, #87CEEB);
+ }
+
+ nav ul{
+ 	background-color: #686873;
+ 	width: 100%;
+ 	list-style-type: none;
+ 	text-align: center;
+ 	font-family: cavolini ;
+ }
+ nav li {
+ 	display: inline-flex;
+ 	border-radius: 50px;
+ }
+ nav a {
+ 	text-decoration: none;
+ 	color:#f7f7fa;
+ 	padding: 10px;
+ 	width: 250px;
+ }
+ nav li:hover {
+ 	background-color: #2e2e30;
+ }
+ img{
+ 	width: 300px;
+ 	height: 200px;
+ }
+ .contenido{
+ 	display: flex;
+ 	margin:20px;
+ }
+
+.articulos{
+	width: 85%;
+	border-right: 2px solid #0f0f0e;
+}
+.seciones{
+	display:flex;
+	align-items: center;
+	padding: 40px;
+}
+.menu-secundario{
+	align-items: center;
+	width: 22%;
+	margin-top: 60px;
+
+}
+.menu-secundario a {
+	display: block;
+	text-align: revert-layer;
+	color: #0f0f0e;
+	margin-bottom: 40px;
+}
+footer{
+	width: 100%;
+	height: 20px;
+	background-color: #0f0f0e;
+	color: #faf9f7;
+	margin-top: 40px;
+}
+footer p{
+	text-aling: center;
+	padding: 100px;
+}
+#spotify{
+	background-color: #4dbd4d;
+	border: none;
+	padding: 15px;
+	border-radius: 70rem;
+	color: #F3FCFB;
+	text-decoration: none;
+	text-align: center;
+	font-family: aptos black ;
+	font-size: 20px;
+	 border: 2px solid black;
+}
+#spotify:hover{
+	background-color: #23ea23;
+}
+#netflix{
+	background-color: #ad1915;
+	border: none;
+	padding: 15px;
+	border-radius: 70rem;
+	color: #F3FCFB;
+	text-decoration: none;
+	text-align: center;
+	font-family: aptos black ;
+	font-size: 20px;
+	 border: 2px solid black;
+}
+#netflix:hover {
+	background-color: red;
+}
+#prime{
+	background-color: #2ecca8;
+	border: none;
+	padding: 15px;
+	border-radius: 70rem;
+	color: #F3FCFB;
+	text-decoration: none;
+	text-align: center;
+	font-family: aptos black ;
+	font-size: 20px;
+	 border: 2px solid black;
+}
+#prime:hover{
+	background-color: #02fcc3;
+}
+#paramount{
+	background-color: #0427ff;
+	border: none;
+	padding: 15px;
+	border-radius: 70rem;
+	color: #F3FCFB;
+	text-decoration: none;
+	text-align: center;
+	font-family: aptos black ;
+	font-size: 20px;
+	 border: 2px solid black;
+}
+#paramount:hover {
+	background-color: #041ba7;
+}
+#crunchy{
+	background-color: #b85d2c;
+	border: none;
+	padding: 15px;
+	border-radius: 70rem;
+	color: #F3FCFB;
+	text-decoration: none;
+	text-align: center;
+	font-family: aptos black ;
+	font-size: 20px;
+	 border: 2px solid black;
+}
+#crunchy:hover{
+	background-color: #fa6702;
+}
+#claro{
+	background-color: ;
+	background: linear-gradient(to bottom,#e53317,#ff2806,#faf9f8);
+	border: none;
+	padding: 15px;
+	border-radius: 70rem;
+	color: #F3FCFB;
+	text-decoration: none;
+	text-align: center;
+	font-family: aptos black ;
+	font-size: 20px;
+	 border: 2px solid black;
+
+}
+#claro:hover{
+	background-color: ;
+
+
+}
